@@ -1,0 +1,16 @@
+C:\Users\Chris\Desktop\School\programmeren\csharp\opdracht-3-collections\collections\Collections\Opdracht1\obj\Debug\net5.0\Opdracht1.csproj.AssemblyReference.cache
+C:\Users\Chris\Desktop\School\programmeren\csharp\opdracht-3-collections\collections\Collections\Opdracht1\obj\Debug\net5.0\Opdracht1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Desktop\School\programmeren\csharp\opdracht-3-collections\collections\Collections\Opdracht1\obj\Debug\net5.0\Opdracht1.AssemblyInfoInputs.cache
+C:\Users\Chris\Desktop\School\programmeren\csharp\opdracht-3-collections\collections\Collections\Opdracht1\obj\Debug\net5.0\Opdracht1.AssemblyInfo.cs
+C:\Users\Chris\Desktop\School\programmeren\csharp\opdracht-3-collections\collections\Collections\Opdracht1\obj\Debug\net5.0\Opdracht1.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\School\programmeren\csharp\opdracht-3-collections\collections\Collections\Opdracht1\bin\Debug\net5.0\Opdracht1.exe
+C:\Users\Chris\Desktop\School\programmeren\csharp\opdracht-3-collections\collections\Collections\Opdracht1\bin\Debug\net5.0\Opdracht1.deps.json
+C:\Users\Chris\Desktop\School\programmeren\csharp\opdracht-3-collections\collections\Collections\Opdracht1\bin\Debug\net5.0\Opdracht1.runtimeconfig.json
+C:\Users\Chris\Desktop\School\programmeren\csharp\opdracht-3-collections\collections\Collections\Opdracht1\bin\Debug\net5.0\Opdracht1.runtimeconfig.dev.json
+C:\Users\Chris\Desktop\School\programmeren\csharp\opdracht-3-collections\collections\Collections\Opdracht1\bin\Debug\net5.0\Opdracht1.dll
+C:\Users\Chris\Desktop\School\programmeren\csharp\opdracht-3-collections\collections\Collections\Opdracht1\bin\Debug\net5.0\ref\Opdracht1.dll
+C:\Users\Chris\Desktop\School\programmeren\csharp\opdracht-3-collections\collections\Collections\Opdracht1\bin\Debug\net5.0\Opdracht1.pdb
+C:\Users\Chris\Desktop\School\programmeren\csharp\opdracht-3-collections\collections\Collections\Opdracht1\obj\Debug\net5.0\Opdracht1.dll
+C:\Users\Chris\Desktop\School\programmeren\csharp\opdracht-3-collections\collections\Collections\Opdracht1\obj\Debug\net5.0\ref\Opdracht1.dll
+C:\Users\Chris\Desktop\School\programmeren\csharp\opdracht-3-collections\collections\Collections\Opdracht1\obj\Debug\net5.0\Opdracht1.pdb
+C:\Users\Chris\Desktop\School\programmeren\csharp\opdracht-3-collections\collections\Collections\Opdracht1\obj\Debug\net5.0\Opdracht1.genruntimeconfig.cache
