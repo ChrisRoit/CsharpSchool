@@ -25,7 +25,8 @@ namespace Collections
             {
                 if (!File.Exists(Filename) || renew == true)
                 {
-                    File.Create(Filename);
+                    var stream = File.Create(Filename);
+                    stream.Close();
                 }
             }
 
@@ -48,7 +49,31 @@ namespace Collections
                 }
             }
         }
-        class TrafficController : BestandController
+
+        class UserInterFace : BestandController {
+            private static string choice;
+
+            public static string Choice
+            {
+                get { return choice; }
+                set { choice = value; }
+            }
+
+
+
+            public static void HaalKeuze() {
+                Console.WriteLine("Wilt u een auto toevoegen, verwijderen of wilt u het programma stopzetten? Maak uw keuze: ");
+                Choice = Console.ReadLine().ToLower();
+                if (Choice != "toevoegen" && Choice != "verwijderen" && Choice != "stoppen") {
+                    Console.WriteLine("U heeft een verkeerde keuze ingevoerd. U kunt kiezen uit: Toevoegen, Verwijderen of stoppen.\n\n");
+                    HaalKeuze();
+                }
+            }
+
+           
+
+        }
+        class TrafficController : UserInterFace
         {
             //class field
             private static Dictionary<string, double> cars;
@@ -65,6 +90,12 @@ namespace Collections
             public static Dictionary<String, Double> Initialiseer()
             {
                 makeFile();
+                Dictionary<string, double> trafficjam = new Dictionary<string, double>();
+                
+
+                foreach (string car in readFromFile()) {
+                    Console.WriteLine(car);
+                }
                 return new Dictionary<String, Double>();
             }
 
